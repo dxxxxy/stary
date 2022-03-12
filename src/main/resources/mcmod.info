@@ -1,15 +1,13 @@
 [
-{
-  "modid": "stary",
-  "name": "stary",
-  "description": "A modern and slick look for the Minecraft UI.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "authorList": ["dxxxxy"],
-  "credits": "",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "stary",
+    "name": "stary",
+    "description": "A modern and slick look for the Minecraft UI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/DxxxxY/stary",
+    "authorList": ["dxxxxy"],
+    "credits": "dxxxxy",
+    "logoFile": "logo.png"
+  }
 ]
