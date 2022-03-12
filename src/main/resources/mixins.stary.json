@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "studio.dreamys.mixin",
+  "refmap": "mixins.stary.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "client.AccessMinecraft",
+    "client.MixinMinecraft",
+    "gui.MixinGuiButton",
+    "gui.MixinGuiConnecting",
+    "gui.MixinGuiMainMenu",
+    "gui.MixinGuiScreen",
+    "gui.MixinGuiSlot"
+  ],
+  "mixins": [
+    "client.MixinLoadingScreenRenderer",
+    "gui.MixinGuiScrollingList"
+  ]
+}
