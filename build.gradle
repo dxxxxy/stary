@@ -22,7 +22,7 @@ apply plugin: "net.minecraftforge.gradle.forge"
 apply plugin: 'kotlin'
 apply plugin: 'org.spongepowered.mixin'
 
-version = "1.0"
+version = "1.0.0"
 group = "dreamys.studio" //http://maven.apache.org/guides/mini/guide-naming-conventions.html
 //noinspection GroovyUnusedAssignment
 archivesBaseName = "stary" //name of the output jar

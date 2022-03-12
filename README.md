@@ -1,5 +1,12 @@
+<div align="center">
+
 # stary
-A modern and slick look for the Minecraft UI. Directly stripped from [LiquidBounce/legacy](https://github.com/CCBlueX/LiquidBounce/tree/legacy) + some tweaks.
+
+<img src="https://raw.githubusercontent.com/DxxxxY/stary/1.0.0/src/main/resources/logo.png" alt="logo" width="25%" />
+
+**A modern and slick look for the Minecraft UI. Directly stripped from [LiquidBounce/legacy](https://github.com/CCBlueX/LiquidBounce/tree/legacy) + some tweaks.**
+
+</div>
 
 ## Features
 - An animated shader present on the main menu (and other screens while not in a world).
